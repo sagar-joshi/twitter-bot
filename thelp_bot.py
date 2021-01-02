@@ -16,7 +16,7 @@ api = tweepy.API(auth)
 
 
 def get_status_text(input_text):
-   return " test" 
+   return " hello-world" 
 
 last_replied_status_id=api.mentions_timeline()[0].id
 
