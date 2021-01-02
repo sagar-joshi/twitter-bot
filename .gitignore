@@ -1,0 +1,6 @@
+__pycache__
+node_modules
+authenticate_own.py
+keys_client.py
+main_own.py
+twitter_api.txt
